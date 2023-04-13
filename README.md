@@ -1,7 +1,7 @@
 # E-Commerce DB
 
   ## Description
-  This project was designed to simulate a ecommerce storefronts database.  Express and Sequelize were used to keep track of items in store.  This was intended for any ecommerce store owner.
+  This  project was designed to simulate a ecommerce storefronts database.  Express and Sequelize were used to keep track of items in store.  This was intended for any ecommerce store owner.
 
   ## Table of Contents
 
@@ -23,8 +23,10 @@
    
   ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg),  
 
+
   ## Tests
   Any questions, comments and concerns can be addressed to me.
 
   ## Questions
   [AForkintheCode](http://www.github.com/AForkintheCode)
+  Please contact me @  if you have any further questions.
